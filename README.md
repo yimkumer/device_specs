@@ -1,6 +1,4 @@
-# os1
-
-OS assignment 1
+#Device Specifications
 
 ## Getting Started
 
